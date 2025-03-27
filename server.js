@@ -21,7 +21,7 @@ app.use((req, res, next) => {
 
 // Homepage route
 app.get('/', (req, res) => {
-    res.send('<h1>Welcome to Full Stack Development</h1>');
+    res.send('<h1>Welcome to Full Stack Development Rethik!!</h1>');
 });
 
 // About page route
